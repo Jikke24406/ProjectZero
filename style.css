@@ -1,7 +1,11 @@
 p {
   font-family: 'Arial'
+  font-size: 12px;
 }
 body {
   background-color: #ffeead;
   color: #ec1c24
+}
+h1 {
+  text-align: center;
 }
