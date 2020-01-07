@@ -1,5 +1,5 @@
 p {
-  font-family: 'Arial'
+  font-style: 'Arial'
   font-size: 12px;
 }
 body {
@@ -11,4 +11,16 @@ h1 {
 }
 a {
   color: #88d8b0;
+}
+a:hover {
+  color: #ffcc5c;
+}
+a:visited {
+  color: #ec1c24;
+}
+ul {
+  list-style: none;
+}
+li {
+  display: inline-block;
 }
