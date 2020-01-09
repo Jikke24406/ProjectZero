@@ -1,6 +1,7 @@
 body {
   background-color: #ffeead;
   color: #ec1c24
+  font-family: "Times New Roman", Georgia;
 }
 h1 {
   text-align: center;
@@ -23,7 +24,6 @@ li {
 h1 {
   font-weight: lighter;
   text-align: center;
-  font-family: "Times New Roman", Georgia;
 }
 p {
     border: 4px solid #88d8b0;
