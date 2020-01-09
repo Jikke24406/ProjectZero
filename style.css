@@ -42,7 +42,7 @@ li a {
 }
 
 li a:hover{
-  background-color: chocolate;
+  background-color: #ffcc5c;
   padding-top: 10px;
   padding-bottom: 13px;
 }
