@@ -1,0 +1,93 @@
+
+
+
+body {
+ background-color: #000000;
+ color: #40E0D0;
+ font-family: Verdana;
+}
+
+h1 {
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-style: italic;
+  text-align: left;
+  letter-spacing: 1px;
+  background-color: #FF0000;
+}
+
+h3 {
+  font-style: italic;
+  text-align: left;
+  letter-spacing: 1px;
+}
+
+p {
+  text-align: left;
+  letter-spacing: 1px;
+  border: 4px #8B0000 double;
+  border-radius: 20px 0px 20px 0px;
+
+}
+
+img {
+  text-align: center;
+  border: 4px #8B0000 double;
+  border-radius: 20px 0px 20px 0px;
+}
+
+ul {
+  background-color: #32CD32;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  list-style-type: none;
+  word-spacing: 10px;
+  border-bottom: 10px;
+  height: 50px;
+}
+
+li a {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-size: 25px
+}
+
+li  {
+  display: inline-block;
+}
+
+li a:hover {
+  background-color: #000080;
+  color: #FFD700;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+iframe {
+  border: 4px #8B0000 double;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.vraag {
+
+}
+
+.antwoord {
+  color: #FFFF00;
+  background-color: #FFFF00;
+  font-style: italic;
+}
+
+.antwoord:hover {
+  color: #000000;
+}
