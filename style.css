@@ -35,6 +35,11 @@ p {
     font-family: "Verdana",Arial;
     font-size:  12px;
 }
+li a {
+  text-decoration: none;
+  color: ghostwhite;
+  font-size: 20px
+}
 #Oosterpark {
   display: block;
   margin-left: auto;
