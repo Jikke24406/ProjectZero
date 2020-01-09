@@ -40,6 +40,13 @@ li a {
   color: ghostwhite;
   font-size: 20px
 }
+
+li a:hover{
+  background-color: chocolate;
+  padding-top: 10px;
+  padding-bottom: 13px;
+}
+
 #Oosterpark {
   display: block;
   margin-left: auto;
