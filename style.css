@@ -18,10 +18,10 @@ a:visited {
 ul {
   background-color: #ffcc5c;
   margin-top: 20px;
-  margin-left: 1000px;
+  margin-left: 1100px;
   border-bottom: 5px solid #88d8b0;
-  padding-left: 100px;
-  word-spacing: 5px;
+  padding-left: 50px;
+  word-spacing: 10px;
 }
 li {
   display: inline-block;
