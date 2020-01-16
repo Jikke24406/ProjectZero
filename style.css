@@ -63,11 +63,8 @@ img {
 .logo {
   position: absolute;
   top: 10px;
-<<<<<<< HEAD
   left: 16px;
   border: none;
-=======
   right: 16px;
   border: 0px;
->>>>>>> c27daa7f51f0a260d3e4bb018b20a2de7fe50054
   }
