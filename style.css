@@ -16,8 +16,9 @@ a:visited {
   color: #ec1c24;
 }
 ul {
-  background-color: #88d8b0;
+  background-color: #ffcc5c;
   margin-top: 20px;
+  border-bottom: 5px solid #88d8b0;
   word-spacing: 5px;
 }
 li {
@@ -40,7 +41,7 @@ p {
 li a {
   text-decoration: none;
   color: ghostwhite;
-  font-size: 20px
+  font-size: 30px
 }
 
 li a:hover{
