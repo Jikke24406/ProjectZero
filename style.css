@@ -49,9 +49,9 @@ li a {
 }
 
 li a:hover{
-  background-color: #ffcc5c;
   padding-top: 10px;
   padding-bottom: 13px;
+  color: #88d8b0;
 }
 
 #Oosterpark {
