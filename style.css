@@ -1,7 +1,7 @@
 body {
   background-color: #ffeead;
   color: #ec1c24
-  font-family: "Times New Roman", Georgia;
+  font-family: "Billionaire";
 }
 h1 {
   text-align: center;
@@ -16,7 +16,10 @@ a:visited {
   color: #ec1c24;
 }
 ul {
-  list-style: none;
+  background-color: #ffcc5c;
+  margin-top: 20px;
+  border-bottom: 5px solid #88d8b0;
+  word-spacing: 5px;
 }
 li {
   display: inline-block;
@@ -38,7 +41,7 @@ p {
 li a {
   text-decoration: none;
   color: ghostwhite;
-  font-size: 50px
+  font-size: 30px
 }
 
 li a:hover{
@@ -59,4 +62,5 @@ img {
   position: absolute;
   top: 10px;
   right: 16px;
+  border: 0px;
   }
