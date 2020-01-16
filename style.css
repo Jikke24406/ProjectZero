@@ -16,7 +16,10 @@ a:visited {
   color: #ec1c24;
 }
 ul {
-  list-style: none;
+  background-color: #ffcc5c;
+  margin-top: 20px;
+  border-bottom: 5px solid #88d8b0;
+  word-spacing: 5px;
 }
 li {
   display: inline-block;
@@ -40,7 +43,7 @@ p {
 li a {
   text-decoration: none;
   color: ghostwhite;
-  font-size: 20px
+  font-size: 30px
 }
 
 li a:hover{
@@ -60,6 +63,11 @@ img {
 .logo {
   position: absolute;
   top: 10px;
+<<<<<<< HEAD
   left: 16px;
   border: none;
+=======
+  right: 16px;
+  border: 0px;
+>>>>>>> c27daa7f51f0a260d3e4bb018b20a2de7fe50054
   }
