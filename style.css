@@ -16,7 +16,9 @@ a:visited {
   color: #ec1c24;
 }
 ul {
-  list-style: none;
+  background-color: #88d8b0;
+  margin-top: 20px;
+  word-spacing: 5px;
 }
 li {
   display: inline-block;
@@ -38,7 +40,7 @@ p {
 li a {
   text-decoration: none;
   color: ghostwhite;
-  font-size: 50px
+  font-size: 20px
 }
 
 li a:hover{
