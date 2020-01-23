@@ -28,6 +28,7 @@ li {
   text-align: center;
 }
 h1 {
+  font-family: "Arial", Verdana;
   font-weight: lighter;
   text-align: center;
 }
@@ -38,7 +39,7 @@ p {
     letter-spacing: 1px;
     line-height: 140%;
     text-align: justify;
-    font-family: "Verdana",Arial;
+    font-family: "Arial",Verdana;
     font-size:  12px;
 }
 li a {
