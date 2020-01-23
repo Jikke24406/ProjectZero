@@ -17,10 +17,11 @@ a:visited {
 ul {
   background-color: #ffcc5c;
   margin-top: 20px;
-  margin-left: 1100px;
+  margin-right: 500px;
+  margin-left: 520px;
   border-bottom: 5px solid #88d8b0;
   padding-left: 50px;
-  word-spacing: 10px;
+  word-spacing: 30px;
 }
 li {
   display: inline-block;
