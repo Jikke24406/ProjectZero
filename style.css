@@ -88,6 +88,22 @@ img {
   right: 16px;
   }
 
+  -.tekst {
+  margin-left: 400px;
+  margin-right: 400px;
+  }
+  .home {
+    float: right;
+
+  }
+  .home2 {
+    float: left;
+    margin-top: -360px;
+  }
+  iframe {
+    margin-left: auto;
+    margin-right: auto;
+}
 div {
   display: flex;
 }
