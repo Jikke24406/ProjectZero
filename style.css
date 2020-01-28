@@ -14,6 +14,11 @@ a:hover {
 a:visited {
   color: #ec1c24;
 }
+
+address {
+  margin-left: 20px;
+}
+
 ul {
   background-color: #ffcc5c;
   margin-top: 20px;
@@ -93,4 +98,8 @@ margin-right: 400px;
 .home2 {
   float: left;
   margin-top: -360px;
+}
+iframe {
+  margin-left: auto;
+  margin-right: auto;
 }
