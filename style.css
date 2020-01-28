@@ -94,3 +94,7 @@ margin-right: 400px;
   float: left;
   margin-top: -360px;
 }
+iframe {
+  margin-left: auto;
+  margin-right: auto;
+}
