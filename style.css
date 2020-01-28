@@ -68,3 +68,7 @@ img {
   border: none;
   right: 16px;
   }
+
+div {
+  display: flex;
+}
