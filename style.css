@@ -88,12 +88,12 @@ img {
   right: 16px;
   }
 
-div {
+#container {
   display: flex;
-
+  justify-content: space-between;
 }
 
-{
-  .vak
-  
+.klas {
+  display: flex;
+  justify-content: space-between;
 }
