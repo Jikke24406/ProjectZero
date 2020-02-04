@@ -16,7 +16,7 @@ a:visited {
 }
 
 address {
-  margin-left: 20px;
+  margin-left: 200px;
 }
 
 ul {
@@ -48,8 +48,8 @@ p {
     text-align: justify;
     font-family: "Arial",Verdana;
     font-size:  17px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 #active{
@@ -72,6 +72,8 @@ li a:hover{
   height: 600px;
   width: 900px;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   margin: 0 auto;
 }
 img {
@@ -88,12 +90,21 @@ img {
   right: 16px;
   }
 
-#container {
-  display: flex;
-  justify-content: space-between;
+.tekst {
+  margin-left: 400px;
+  margin-right: 400px;
 }
-
-.klas {
+.home {
+  float: right;
+}
+.home2 {
+  float: left;
+  margin-top: -360px;
+}
+iframe {
+  margin-left: auto;
+  margin-right: auto;
+}
+div {
   display: flex;
-  justify-content: space-between;
 }
