@@ -15,8 +15,9 @@ a:visited {
   color: #ec1c24;
 }
 
-.address {
-  font-size: 20px;
+address {
+  margin-left: 200px;
+  font-size: 29px;
 }
 
 ul {
@@ -50,7 +51,6 @@ p {
     font-size:  17px;
     margin-left: 200px;
     margin-right: 200px;
-    line-height: normal;
 }
 
 #active{
@@ -92,15 +92,15 @@ img {
   }
 
 .tekst {
-  margin-left: 0px;
-  margin-right: 44000px;
+  margin-left: 400px;
+  margin-right: 400px;
 }
 .home {
   float: right;
 }
 .home2 {
   float: left;
-  margin-top: -360px;
+  margin-top: -325px;
 }
 iframe {
   margin-left: auto;
@@ -128,8 +128,6 @@ iframe {
 }
 
 .tekst2 {
-  margin-right: 200px;
-  margin-left: 200px;
   margin-left: 50px;
   margin-right: 50px;
   padding-left: -20px;
