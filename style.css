@@ -15,9 +15,8 @@ a:visited {
   color: #ec1c24;
 }
 
-address {
-  margin-left: 200px;
-  font-size: 29px;
+.address {
+  font-size: 20px;
 }
 
 ul {
@@ -51,6 +50,7 @@ p {
     font-size:  17px;
     margin-left: 200px;
     margin-right: 200px;
+    line-height: normal;
 }
 
 #active{
